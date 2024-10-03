@@ -112,6 +112,9 @@ form input {
 .exolist {
   color: coral;
 }
+.colorClass{
+  background-color: blueviolet;
+}
 
 .filterform {
   display: flex;
