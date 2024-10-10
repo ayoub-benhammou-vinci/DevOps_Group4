@@ -6,7 +6,7 @@
 
 footer,
 header {
-  background-color: black;
+  background-color: rgb(78, 136, 217);
   color: white;
   padding-bottom: 20px;
   text-align: center;
@@ -118,6 +118,9 @@ form input {
 
 .colorClassheader{
   background-color: aquamarine;
+}
+.colorClass{
+  background-color: rgb(76, 112, 197);
 }
 
 .filterform {
