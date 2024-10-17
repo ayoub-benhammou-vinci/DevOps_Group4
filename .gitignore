@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+#db logs
+./db/exoplanets.db
+./exoplanets
+
+#nodes_modules
+./node_modules
