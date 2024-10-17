@@ -132,7 +132,7 @@ dist
 
 #db logs
 ./db/exoplanets.db
-./exoplanets
+./exoplanets.db
 
 #nodes_modules
 ./node_modules
